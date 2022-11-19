@@ -1047,10 +1047,3 @@ content: "";
     margin-bottom: 30px;
     width: 100%;
 }
-.contact .content form .main-input:focus {
-    outline: none;
-}
-
-.contact .content form textarea.main-input {
-    height: 200px;
-}
